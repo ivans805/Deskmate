@@ -55,7 +55,7 @@ In this repo i included a DeskmateOS Lite folder. Inside it theres a .ino sketch
 # Finnishing up
 The libraries you need are LVGL, LVGL_CYD and TFT_eSPI.
 Sadly the desktop app for Deskmate only exists fo Windows so far.
-Lastly run the Deskmate connect.exe app and also put it in shell:startup if you want by pressing win + r, typing shell:startup and putting the .exe file there.
+Lastly run the Deskmate connect.exe app ( https://gofile.io/d/STH1hWzx ) and also put it in shell:startup if you want by pressing win + r, typing shell:startup and putting the .exe file there.
 
 # Support
 If you have any issues or quetions, then create an issue under this repo or start a discussion.
